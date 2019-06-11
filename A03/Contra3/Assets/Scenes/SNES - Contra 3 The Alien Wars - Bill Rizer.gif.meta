@@ -1,0 +1,1855 @@
+fileFormatVersion: 2
+guid: 5736386b3f5bc8547b57377c0471a4cb
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 9037452537962039181
+    second: SNES - Contra 3 The Alien Wars - Bill Rizer_0
+  - first:
+      213: 2287883549475942903
+    second: SNES - Contra 3 The Alien Wars - Bill Rizer_1
+  - first:
+      213: 5984089778734356895
+    second: SNES - Contra 3 The Alien Wars - Bill Rizer_2
+  - first:
+      213: -7884420544352084412
+    second: SNES - Contra 3 The Alien Wars - Bill Rizer_3
+  - first:
+      213: 233701889476885820
+    second: SNES - Contra 3 The Alien Wars - Bill Rizer_4
+  - first:
+      213: -6303407866631101042
+    second: SNES - Contra 3 The Alien Wars - Bill Rizer_5
+  - first:
+      213: -8255268635343199170
+    second: SNES - Contra 3 The Alien Wars - Bill Rizer_6
+  - first:
+      213: 3229715293968388681
+    second: SNES - Contra 3 The Alien Wars - Bill Rizer_7
+  - first:
+      213: -2555182296985290788
+    second: SNES - Contra 3 The Alien Wars - Bill Rizer_8
+  - first:
+      213: 2728034138344607754
+    second: SNES - Contra 3 The Alien Wars - Bill Rizer_9
+  - first:
+      213: 6760336816894738124
+    second: SNES - Contra 3 The Alien Wars - Bill Rizer_10
+  - first:
+      213: 676490190143414041
+    second: SNES - Contra 3 The Alien Wars - Bill Rizer_11
+  - first:
+      213: 2797417041212691366
+    second: SNES - Contra 3 The Alien Wars - Bill Rizer_12
+  - first:
+      213: -7877276443265224955
+    second: SNES - Contra 3 The Alien Wars - Bill Rizer_13
+  - first:
+      213: -923274694198526426
+    second: SNES - Contra 3 The Alien Wars - Bill Rizer_14
+  - first:
+      213: -7203477884523522980
+    second: SNES - Contra 3 The Alien Wars - Bill Rizer_15
+  - first:
+      213: -3025737642691831826
+    second: SNES - Contra 3 The Alien Wars - Bill Rizer_16
+  - first:
+      213: -3032148099113680257
+    second: SNES - Contra 3 The Alien Wars - Bill Rizer_17
+  - first:
+      213: -2439880699175687010
+    second: SNES - Contra 3 The Alien Wars - Bill Rizer_18
+  - first:
+      213: 8103797789971497696
+    second: SNES - Contra 3 The Alien Wars - Bill Rizer_19
+  - first:
+      213: 3529719516609578979
+    second: SNES - Contra 3 The Alien Wars - Bill Rizer_20
+  - first:
+      213: 549566912433101982
+    second: SNES - Contra 3 The Alien Wars - Bill Rizer_21
+  - first:
+      213: 8573836191099142867
+    second: SNES - Contra 3 The Alien Wars - Bill Rizer_22
+  - first:
+      213: 3987819214463758792
+    second: SNES - Contra 3 The Alien Wars - Bill Rizer_23
+  - first:
+      213: 2590851297909950644
+    second: SNES - Contra 3 The Alien Wars - Bill Rizer_24
+  - first:
+      213: 8051550980442168673
+    second: SNES - Contra 3 The Alien Wars - Bill Rizer_25
+  - first:
+      213: 8246562751699691591
+    second: SNES - Contra 3 The Alien Wars - Bill Rizer_26
+  - first:
+      213: -2128705760090434030
+    second: SNES - Contra 3 The Alien Wars - Bill Rizer_27
+  - first:
+      213: -8994140803911140064
+    second: SNES - Contra 3 The Alien Wars - Bill Rizer_28
+  - first:
+      213: -4222488884043122311
+    second: SNES - Contra 3 The Alien Wars - Bill Rizer_29
+  - first:
+      213: -1927990450478976924
+    second: SNES - Contra 3 The Alien Wars - Bill Rizer_30
+  - first:
+      213: -7481624869660981972
+    second: SNES - Contra 3 The Alien Wars - Bill Rizer_31
+  - first:
+      213: -7006664099562146337
+    second: SNES - Contra 3 The Alien Wars - Bill Rizer_32
+  - first:
+      213: 3987419422421494542
+    second: SNES - Contra 3 The Alien Wars - Bill Rizer_33
+  - first:
+      213: 1551434962546528440
+    second: SNES - Contra 3 The Alien Wars - Bill Rizer_34
+  - first:
+      213: -2820904614675895379
+    second: SNES - Contra 3 The Alien Wars - Bill Rizer_35
+  - first:
+      213: -1098894947953146801
+    second: SNES - Contra 3 The Alien Wars - Bill Rizer_36
+  - first:
+      213: 5827710963602583373
+    second: SNES - Contra 3 The Alien Wars - Bill Rizer_37
+  - first:
+      213: -2948150841690001811
+    second: SNES - Contra 3 The Alien Wars - Bill Rizer_38
+  - first:
+      213: 1242598728258893035
+    second: SNES - Contra 3 The Alien Wars - Bill Rizer_39
+  - first:
+      213: -6250994301484012477
+    second: SNES - Contra 3 The Alien Wars - Bill Rizer_40
+  - first:
+      213: -5265211071596618201
+    second: SNES - Contra 3 The Alien Wars - Bill Rizer_41
+  - first:
+      213: 8626554465288147474
+    second: SNES - Contra 3 The Alien Wars - Bill Rizer_42
+  - first:
+      213: -107960618767473302
+    second: SNES - Contra 3 The Alien Wars - Bill Rizer_43
+  - first:
+      213: 6973864089376602418
+    second: SNES - Contra 3 The Alien Wars - Bill Rizer_44
+  - first:
+      213: -378111163161953956
+    second: SNES - Contra 3 The Alien Wars - Bill Rizer_45
+  - first:
+      213: 2822695919946176844
+    second: SNES - Contra 3 The Alien Wars - Bill Rizer_46
+  - first:
+      213: -3630840442406710451
+    second: SNES - Contra 3 The Alien Wars - Bill Rizer_47
+  - first:
+      213: 6457250110202091380
+    second: SNES - Contra 3 The Alien Wars - Bill Rizer_48
+  - first:
+      213: 1286883054332026528
+    second: SNES - Contra 3 The Alien Wars - Bill Rizer_49
+  - first:
+      213: 888733137363160008
+    second: SNES - Contra 3 The Alien Wars - Bill Rizer_50
+  - first:
+      213: -6855352826407311375
+    second: SNES - Contra 3 The Alien Wars - Bill Rizer_51
+  - first:
+      213: 8894024742547363007
+    second: SNES - Contra 3 The Alien Wars - Bill Rizer_52
+  - first:
+      213: 872175086561291523
+    second: SNES - Contra 3 The Alien Wars - Bill Rizer_53
+  - first:
+      213: 5810638459473347834
+    second: SNES - Contra 3 The Alien Wars - Bill Rizer_54
+  - first:
+      213: 2283947766611906786
+    second: SNES - Contra 3 The Alien Wars - Bill Rizer_55
+  - first:
+      213: -8032625656217206863
+    second: SNES - Contra 3 The Alien Wars - Bill Rizer_56
+  - first:
+      213: -8260940730207212023
+    second: SNES - Contra 3 The Alien Wars - Bill Rizer_57
+  - first:
+      213: 1335531368227769289
+    second: SNES - Contra 3 The Alien Wars - Bill Rizer_58
+  - first:
+      213: -6666277523693889260
+    second: SNES - Contra 3 The Alien Wars - Bill Rizer_59
+  - first:
+      213: 4945931518873011532
+    second: SNES - Contra 3 The Alien Wars - Bill Rizer_60
+  - first:
+      213: 334714795844720512
+    second: SNES - Contra 3 The Alien Wars - Bill Rizer_61
+  - first:
+      213: 4967518372182123715
+    second: SNES - Contra 3 The Alien Wars - Bill Rizer_62
+  - first:
+      213: 1951313364578967494
+    second: SNES - Contra 3 The Alien Wars - Bill Rizer_63
+  - first:
+      213: -6941538922607247060
+    second: SNES - Contra 3 The Alien Wars - Bill Rizer_64
+  - first:
+      213: 3447938440984701154
+    second: SNES - Contra 3 The Alien Wars - Bill Rizer_65
+  - first:
+      213: -4300332050188565333
+    second: SNES - Contra 3 The Alien Wars - Bill Rizer_66
+  - first:
+      213: -6495540829908045847
+    second: SNES - Contra 3 The Alien Wars - Bill Rizer_67
+  - first:
+      213: 3814107852790475594
+    second: SNES - Contra 3 The Alien Wars - Bill Rizer_68
+  - first:
+      213: 8971448178241848477
+    second: SNES - Contra 3 The Alien Wars - Bill Rizer_69
+  - first:
+      213: -5289606938885573673
+    second: SNES - Contra 3 The Alien Wars - Bill Rizer_70
+  - first:
+      213: 213070479613727658
+    second: SNES - Contra 3 The Alien Wars - Bill Rizer_71
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SNES - Contra 3 The Alien Wars - Bill Rizer_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 387
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e6b0adf226afbc41888c863526d53a7
+      internalID: 9037452537962039181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Contra 3 The Alien Wars - Bill Rizer_1
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 387
+        width: 30
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4beb3cf346038b44b9b769a97de8f018
+      internalID: 2287883549475942903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Contra 3 The Alien Wars - Bill Rizer_2
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 387
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a0525608e8c87d4680398ccade2b7b5
+      internalID: 5984089778734356895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Contra 3 The Alien Wars - Bill Rizer_3
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 388
+        width: 45
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83455b6a27581344a9bd669496cd1c1d
+      internalID: -7884420544352084412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Contra 3 The Alien Wars - Bill Rizer_4
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 388
+        width: 44
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5afe36e69c09e884697b5a7358fb0fb3
+      internalID: 233701889476885820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Contra 3 The Alien Wars - Bill Rizer_5
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 388
+        width: 54
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47cdd8a99915fb64f8390f6d2f8ac72f
+      internalID: -6303407866631101042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Contra 3 The Alien Wars - Bill Rizer_6
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 360
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9a5cc5e26ef12948b983218c61ee763
+      internalID: -8255268635343199170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Contra 3 The Alien Wars - Bill Rizer_7
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 357
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7789d1d499f69274989091b3613bd94d
+      internalID: 3229715293968388681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Contra 3 The Alien Wars - Bill Rizer_8
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 361
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e250412753b2e244abdb981f7f1af517
+      internalID: -2555182296985290788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Contra 3 The Alien Wars - Bill Rizer_9
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 358
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad0966c9947744c4689a7ec74a5b5a45
+      internalID: 2728034138344607754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Contra 3 The Alien Wars - Bill Rizer_10
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 311
+        width: 27
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8511901bb8d91624390cad4072086617
+      internalID: 6760336816894738124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Contra 3 The Alien Wars - Bill Rizer_11
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 309
+        width: 27
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3156a82c4d1fa44289db1ef8aef6241
+      internalID: 676490190143414041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Contra 3 The Alien Wars - Bill Rizer_12
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 309
+        width: 30
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fc604fa86405d34a9f9ebf51d0e5bae
+      internalID: 2797417041212691366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Contra 3 The Alien Wars - Bill Rizer_13
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 309
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a7d86c8c7f221a41a70e8f7dd9aab7d
+      internalID: -7877276443265224955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Contra 3 The Alien Wars - Bill Rizer_14
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 308
+        width: 34
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69b532494c563f145bae6d7212f06088
+      internalID: -923274694198526426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Contra 3 The Alien Wars - Bill Rizer_15
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 308
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27ca8c1026b15f648b90ca75a50af2bb
+      internalID: -7203477884523522980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Contra 3 The Alien Wars - Bill Rizer_16
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 268
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b9f2a443c091784abcb419d02bee1e7
+      internalID: -3025737642691831826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Contra 3 The Alien Wars - Bill Rizer_17
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 263
+        width: 40
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddd655493d0c84646815cf82d3876ca6
+      internalID: -3032148099113680257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Contra 3 The Alien Wars - Bill Rizer_18
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 262
+        width: 41
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bc0fa61c66e65342b5bdd616ca6acd7
+      internalID: -2439880699175687010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Contra 3 The Alien Wars - Bill Rizer_19
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 264
+        width: 40
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30bc59ff8ca52b64384a1b263a034f29
+      internalID: 8103797789971497696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Contra 3 The Alien Wars - Bill Rizer_20
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 213
+        width: 28
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c11929b1c34551643ac708c787198961
+      internalID: 3529719516609578979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Contra 3 The Alien Wars - Bill Rizer_21
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 213
+        width: 24
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69c861228950c2b42b0a92172b7fef1b
+      internalID: 549566912433101982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Contra 3 The Alien Wars - Bill Rizer_22
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 211
+        width: 28
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a9375b67cc0c034faa8079c54f1e17d
+      internalID: 8573836191099142867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Contra 3 The Alien Wars - Bill Rizer_23
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 211
+        width: 24
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09f65882700cbed49a7d2873b11902a0
+      internalID: 3987819214463758792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Contra 3 The Alien Wars - Bill Rizer_24
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 238
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bb006519aca45c47aa00cd2eecd2208
+      internalID: 2590851297909950644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Contra 3 The Alien Wars - Bill Rizer_25
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 235
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4037299e38e80b438b8a5226fb6f8db
+      internalID: 8051550980442168673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Contra 3 The Alien Wars - Bill Rizer_26
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 235
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ecb321409ed5db44a474be8c397583f
+      internalID: 8246562751699691591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Contra 3 The Alien Wars - Bill Rizer_27
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 238
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ca2e40df0ccab64cba46ce2f43a9244
+      internalID: -2128705760090434030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Contra 3 The Alien Wars - Bill Rizer_28
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 238
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67687982376fe9f47b8c5d27ea447915
+      internalID: -8994140803911140064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Contra 3 The Alien Wars - Bill Rizer_29
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 238
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d31f8c68163c5d74888d64ada078ae67
+      internalID: -4222488884043122311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Contra 3 The Alien Wars - Bill Rizer_30
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 235
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83ce9230d101d6041a7c65e6ffd8c72a
+      internalID: -1927990450478976924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Contra 3 The Alien Wars - Bill Rizer_31
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 213
+        width: 16
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c89fd0e79d523b44af9f16076522519
+      internalID: -7481624869660981972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Contra 3 The Alien Wars - Bill Rizer_32
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 223
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1470bb740765e3a47a6bc0bdd09d7b20
+      internalID: -7006664099562146337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Contra 3 The Alien Wars - Bill Rizer_33
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 223
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e011c6be58e5cc40a7a8b7faeb6e587
+      internalID: 3987419422421494542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Contra 3 The Alien Wars - Bill Rizer_34
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 223
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70c3ceac5d8554647be72297c30bd14d
+      internalID: 1551434962546528440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Contra 3 The Alien Wars - Bill Rizer_35
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 223
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c586615a6587b664bb9b77af0b2df889
+      internalID: -2820904614675895379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Contra 3 The Alien Wars - Bill Rizer_36
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 223
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42c8d5092ca9d494fa4cf39adbe73f6c
+      internalID: -1098894947953146801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Contra 3 The Alien Wars - Bill Rizer_37
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 223
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84221fd18a679304db5923c7dec97990
+      internalID: 5827710963602583373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Contra 3 The Alien Wars - Bill Rizer_38
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 223
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5647774ad24e404ba79f12c623f2526
+      internalID: -2948150841690001811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Contra 3 The Alien Wars - Bill Rizer_39
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 208
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 454a5907a4f37314b9818bc463d8bba2
+      internalID: 1242598728258893035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Contra 3 The Alien Wars - Bill Rizer_40
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 208
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d308f97dbd6129d479054d30067c1987
+      internalID: -6250994301484012477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Contra 3 The Alien Wars - Bill Rizer_41
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 208
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19b6612812978574ba57e37b2087907b
+      internalID: -5265211071596618201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Contra 3 The Alien Wars - Bill Rizer_42
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 205
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac4e1434dcb6284469c795676e4f8618
+      internalID: 8626554465288147474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Contra 3 The Alien Wars - Bill Rizer_43
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 208
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a703c5d733412c41823fe994c5c397c
+      internalID: -107960618767473302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Contra 3 The Alien Wars - Bill Rizer_44
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 208
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d92db988a44a7b4eabf7f19076a7afa
+      internalID: 6973864089376602418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Contra 3 The Alien Wars - Bill Rizer_45
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 208
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9eeb8ebf8a711143b920d67b25bc7e8
+      internalID: -378111163161953956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Contra 3 The Alien Wars - Bill Rizer_46
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 205
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa7628c86277bde449721e436d215b06
+      internalID: 2822695919946176844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Contra 3 The Alien Wars - Bill Rizer_47
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 162
+        width: 27
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adc8a49f836b1a849af16b8eaa4d140b
+      internalID: -3630840442406710451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Contra 3 The Alien Wars - Bill Rizer_48
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 162
+        width: 26
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0db23d2cede8f304aa22b03c7d410e2e
+      internalID: 6457250110202091380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Contra 3 The Alien Wars - Bill Rizer_49
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 161
+        width: 27
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e657edfc29ffc44a95c243c908fe3ff
+      internalID: 1286883054332026528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Contra 3 The Alien Wars - Bill Rizer_50
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 161
+        width: 26
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86dce801758f21643ac6c1a635a584c4
+      internalID: 888733137363160008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Contra 3 The Alien Wars - Bill Rizer_51
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 168
+        width: 16
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d8ced73512e01049a7a43b5bc6ea83d
+      internalID: -6855352826407311375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Contra 3 The Alien Wars - Bill Rizer_52
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 108
+        width: 32
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40a6dfcdee223ab45bb42b317b8a0e12
+      internalID: 8894024742547363007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Contra 3 The Alien Wars - Bill Rizer_53
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 111
+        width: 30
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77b400f6efd08fb408533c8b5473d47d
+      internalID: 872175086561291523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Contra 3 The Alien Wars - Bill Rizer_54
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 131
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfc1b18962fc0ae4c86b4d27e6d4f637
+      internalID: 5810638459473347834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Contra 3 The Alien Wars - Bill Rizer_55
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 119
+        width: 16
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73d1240f7c7b6e14e96f284428da08f9
+      internalID: 2283947766611906786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Contra 3 The Alien Wars - Bill Rizer_56
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 112
+        width: 48
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb49df9a4942a6747891b2bb76b7d29f
+      internalID: -8032625656217206863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Contra 3 The Alien Wars - Bill Rizer_57
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 41
+        width: 30
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01e7f4f1fa0964b4dbc5acbeb23c6852
+      internalID: -8260940730207212023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Contra 3 The Alien Wars - Bill Rizer_58
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 46
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c08004418a083347aa17dda68391ed7
+      internalID: 1335531368227769289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Contra 3 The Alien Wars - Bill Rizer_59
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 44
+        width: 21
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ceab66a4009b3348a0e59d8d86b47ec
+      internalID: -6666277523693889260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Contra 3 The Alien Wars - Bill Rizer_60
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 51
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f51c3b54f8e196f47b1e43925b37a241
+      internalID: 4945931518873011532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Contra 3 The Alien Wars - Bill Rizer_61
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 51
+        width: 23
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad3fd02e2b1446643ae97ed45aae4917
+      internalID: 334714795844720512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Contra 3 The Alien Wars - Bill Rizer_62
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 53
+        width: 25
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a05857d304379543b98b2f9fc048c30
+      internalID: 4967518372182123715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Contra 3 The Alien Wars - Bill Rizer_63
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 54
+        width: 44
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6c3f97a2f008784e897fb2929c5a73a
+      internalID: 1951313364578967494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Contra 3 The Alien Wars - Bill Rizer_64
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 6
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d093b77defcbb954fbe85bfbdbb6a066
+      internalID: -6941538922607247060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Contra 3 The Alien Wars - Bill Rizer_65
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 6
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6030e88054036f47b683f013e94eb38
+      internalID: 3447938440984701154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Contra 3 The Alien Wars - Bill Rizer_66
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 6
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4e834471d2455e49949440ee0fcc045
+      internalID: -4300332050188565333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Contra 3 The Alien Wars - Bill Rizer_67
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 4
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 711ae86aed7bc78449998d0466ae99d4
+      internalID: -6495540829908045847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Contra 3 The Alien Wars - Bill Rizer_68
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 8
+        width: 24
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1497996b0cef58c48bc05237c7351dc6
+      internalID: 3814107852790475594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Contra 3 The Alien Wars - Bill Rizer_69
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 4
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcfc0bf37d2049249bacfaf953476d8f
+      internalID: 8971448178241848477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Contra 3 The Alien Wars - Bill Rizer_70
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 5
+        width: 26
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b140192af8705944ebeb2d50421c1422
+      internalID: -5289606938885573673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Contra 3 The Alien Wars - Bill Rizer_71
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 264
+        width: 40
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56058f7fa223b6349b5a358ce3455907
+      internalID: 213070479613727658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1495 @@
+fileFormatVersion: 2
+guid: 8ece22a989a073f4d80fd201f30e7495
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3399978418887832773
+    second: contra3_various_sheet_0
+  - first:
+      213: -2345053761452618872
+    second: contra3_various_sheet_1
+  - first:
+      213: 4505751255945391268
+    second: contra3_various_sheet_2
+  - first:
+      213: 2618522781161845253
+    second: contra3_various_sheet_3
+  - first:
+      213: -8341274486360381711
+    second: contra3_various_sheet_4
+  - first:
+      213: -8869158477657593943
+    second: contra3_various_sheet_5
+  - first:
+      213: -443084914646714566
+    second: contra3_various_sheet_6
+  - first:
+      213: -5623185772130636931
+    second: contra3_various_sheet_7
+  - first:
+      213: 3857531110152905434
+    second: contra3_various_sheet_8
+  - first:
+      213: 1930633445751580072
+    second: contra3_various_sheet_9
+  - first:
+      213: 6314362636384281832
+    second: contra3_various_sheet_10
+  - first:
+      213: -2925502886738745206
+    second: contra3_various_sheet_11
+  - first:
+      213: -4467221070469935148
+    second: contra3_various_sheet_12
+  - first:
+      213: 4772853678254112037
+    second: contra3_various_sheet_13
+  - first:
+      213: -8507238594912605490
+    second: contra3_various_sheet_14
+  - first:
+      213: 3707110118664742958
+    second: contra3_various_sheet_15
+  - first:
+      213: 2575245226704902325
+    second: contra3_various_sheet_16
+  - first:
+      213: -8360985945545014040
+    second: contra3_various_sheet_17
+  - first:
+      213: -6366455872176978270
+    second: contra3_various_sheet_18
+  - first:
+      213: -8003769982011265478
+    second: contra3_various_sheet_19
+  - first:
+      213: 5622995587783539769
+    second: contra3_various_sheet_20
+  - first:
+      213: 1904036057180161968
+    second: contra3_various_sheet_21
+  - first:
+      213: -5670521369100522835
+    second: contra3_various_sheet_22
+  - first:
+      213: -2210672840370410739
+    second: contra3_various_sheet_23
+  - first:
+      213: -2920707199124539561
+    second: contra3_various_sheet_24
+  - first:
+      213: 9204068840052155836
+    second: contra3_various_sheet_25
+  - first:
+      213: -2997445804999568360
+    second: contra3_various_sheet_26
+  - first:
+      213: -3764327106084643332
+    second: contra3_various_sheet_27
+  - first:
+      213: 5194146780010119649
+    second: contra3_various_sheet_28
+  - first:
+      213: -7010342617952859903
+    second: contra3_various_sheet_29
+  - first:
+      213: -7273818914554114495
+    second: contra3_various_sheet_30
+  - first:
+      213: 2485486750769914239
+    second: contra3_various_sheet_31
+  - first:
+      213: 1669072323342098904
+    second: contra3_various_sheet_32
+  - first:
+      213: -5124489700779659157
+    second: contra3_various_sheet_33
+  - first:
+      213: 1673316273718194837
+    second: contra3_various_sheet_34
+  - first:
+      213: -1017375824833897788
+    second: contra3_various_sheet_35
+  - first:
+      213: 49049118119154565
+    second: contra3_various_sheet_36
+  - first:
+      213: -8926304168544765999
+    second: contra3_various_sheet_37
+  - first:
+      213: 6949099776541634638
+    second: contra3_various_sheet_38
+  - first:
+      213: 4644378255926896362
+    second: contra3_various_sheet_39
+  - first:
+      213: -5779654987539477025
+    second: contra3_various_sheet_40
+  - first:
+      213: -387278379142922179
+    second: contra3_various_sheet_41
+  - first:
+      213: -8056347175076957894
+    second: contra3_various_sheet_42
+  - first:
+      213: -1291701294231127488
+    second: contra3_various_sheet_43
+  - first:
+      213: -5924931724017215105
+    second: contra3_various_sheet_44
+  - first:
+      213: 1743750095767505858
+    second: contra3_various_sheet_45
+  - first:
+      213: 7367641738539933632
+    second: contra3_various_sheet_46
+  - first:
+      213: 4707068263698529610
+    second: contra3_various_sheet_47
+  - first:
+      213: -7749455518091603021
+    second: contra3_various_sheet_48
+  - first:
+      213: 6779356236204233257
+    second: contra3_various_sheet_49
+  - first:
+      213: -6733352072173835363
+    second: contra3_various_sheet_50
+  - first:
+      213: 4472680804148227710
+    second: contra3_various_sheet_51
+  - first:
+      213: 7696934100994067356
+    second: contra3_various_sheet_52
+  - first:
+      213: 5590230154159605335
+    second: contra3_various_sheet_53
+  - first:
+      213: 6757055211253159488
+    second: contra3_various_sheet_54
+  - first:
+      213: 5746551077292478839
+    second: contra3_various_sheet_55
+  - first:
+      213: 1421539509370738746
+    second: contra3_various_sheet_56
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: contra3_various_sheet_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 207
+        width: 63
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37599ec8ce9a1344083b9f294a132dec
+      internalID: 3399978418887832773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: contra3_various_sheet_1
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 250
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 038d19ab338fdd249beafc151cdf9f04
+      internalID: -2345053761452618872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: contra3_various_sheet_2
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 250
+        width: 30
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 262b5375b87275943a8891e461664ad2
+      internalID: 4505751255945391268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: contra3_various_sheet_3
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 250
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68d7e9ef405c4804ea9f511d26dd7752
+      internalID: 2618522781161845253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: contra3_various_sheet_4
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 250
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2ebb28005db1884b8c7ce5fc14190e0
+      internalID: -8341274486360381711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: contra3_various_sheet_5
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 262
+        width: 45
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d892b8fbacd5ca4aabac6164d7356ca
+      internalID: -8869158477657593943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: contra3_various_sheet_6
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 223
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e757b098997bb5843ad9406a56b090b8
+      internalID: -443084914646714566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: contra3_various_sheet_7
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 223
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2772c077340d2c24abdca27cfc96f1a5
+      internalID: -5623185772130636931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: contra3_various_sheet_8
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 223
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61461e9fb3124f04a8c96f553e4ae30d
+      internalID: 3857531110152905434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: contra3_various_sheet_9
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 223
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94fd115db513b2e4caf22c11a161a5dd
+      internalID: 1930633445751580072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: contra3_various_sheet_10
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 223
+        width: 39
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 543150040f247e146984e1a78860a5b1
+      internalID: 6314362636384281832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: contra3_various_sheet_11
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 201
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 622229846222e1d4095656785a179553
+      internalID: -2925502886738745206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: contra3_various_sheet_12
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 200
+        width: 30
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99012f2389781104d97edbe76205353f
+      internalID: -4467221070469935148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: contra3_various_sheet_13
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 207
+        width: 32
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81397254d4627244792e55b007a95ef7
+      internalID: 4772853678254112037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: contra3_various_sheet_14
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 204
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecefd53c3bceeee41a06a390bb9849d4
+      internalID: -8507238594912605490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: contra3_various_sheet_15
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 192
+        width: 27
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15c662d5e8502f64d86e93f5c796dec9
+      internalID: 3707110118664742958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: contra3_various_sheet_16
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 185
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8706a9f6a9920348b42e885b1745200
+      internalID: 2575245226704902325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: contra3_various_sheet_17
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 203
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce31bb3145a47244a88ee71cacdb5951
+      internalID: -8360985945545014040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: contra3_various_sheet_18
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 203
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dafd9ae3be8c87b44a71149b59a41a39
+      internalID: -6366455872176978270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: contra3_various_sheet_19
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 203
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b275ee7d6ce1a54aa723fb5b64436f6
+      internalID: -8003769982011265478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: contra3_various_sheet_20
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 185
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f856287982aadc49aa43ce19fa941ce
+      internalID: 5622995587783539769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: contra3_various_sheet_21
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 185
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1877cbd3526d3c44b8c759baaf7c531b
+      internalID: 1904036057180161968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: contra3_various_sheet_22
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 185
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9a1cefa8d8cff242822534c53dee6be
+      internalID: -5670521369100522835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: contra3_various_sheet_23
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 185
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e060f69eb80f804e8ee172e91ca7056
+      internalID: -2210672840370410739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: contra3_various_sheet_24
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 166
+        width: 50
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c6ab376d4862c94f8f5c34f0ff5a000
+      internalID: -2920707199124539561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: contra3_various_sheet_25
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 168
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96a53a2a52d19e94a8fafffa228daa52
+      internalID: 9204068840052155836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: contra3_various_sheet_26
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 168
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62db4969e38ae944eb0651741dd2172a
+      internalID: -2997445804999568360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: contra3_various_sheet_27
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 169
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7a99edd5594ba3458c514d7b4c9c546
+      internalID: -3764327106084643332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: contra3_various_sheet_28
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 169
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46b0f2900dbde044ea680b3fbdd70d20
+      internalID: 5194146780010119649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: contra3_various_sheet_29
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 160
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4223ac3f0be00ba4c84fb3f6f67a6db5
+      internalID: -7010342617952859903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: contra3_various_sheet_30
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 158
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a46fd47afa249444aa4668ab50d61bea
+      internalID: -7273818914554114495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: contra3_various_sheet_31
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 158
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81f46feb241fa81499b8f022497fbe33
+      internalID: 2485486750769914239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: contra3_various_sheet_32
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 160
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa438a9b7c08d7e4aabdf652ca215ac6
+      internalID: 1669072323342098904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: contra3_various_sheet_33
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48a96da63a34b3e4bbb031a36c320a26
+      internalID: -5124489700779659157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: contra3_various_sheet_34
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03591004c8be8b84996cf98e4e3f605a
+      internalID: 1673316273718194837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: contra3_various_sheet_35
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 112
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d15b0dbfc307aa4ea7ea0a85a3842a8
+      internalID: -1017375824833897788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: contra3_various_sheet_36
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 117
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4bc908bb0384744ca4360442bb4ae93
+      internalID: 49049118119154565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: contra3_various_sheet_37
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 100
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02ed7e64db74de84eb6acc2b1de385a8
+      internalID: -8926304168544765999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: contra3_various_sheet_38
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 100
+        width: 30
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e3367912a41ecc42ac82b7d698c0616
+      internalID: 6949099776541634638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: contra3_various_sheet_39
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 100
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5103b34e09a79fe44a998f0fa03f6e52
+      internalID: 4644378255926896362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: contra3_various_sheet_40
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 100
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33b8b70a34c376243afde4ada47f85d6
+      internalID: -5779654987539477025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: contra3_various_sheet_41
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 112
+        width: 45
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b6ad1f33a19da54abf8b99e83ac08cc
+      internalID: -387278379142922179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: contra3_various_sheet_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 56
+        width: 32
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e3f81da5ebbc464192382904400d24e
+      internalID: -8056347175076957894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: contra3_various_sheet_43
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 56
+        width: 40
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4514d0576bfd5e848bf11bdf2f858922
+      internalID: -1291701294231127488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: contra3_various_sheet_44
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 55
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 844abd7d93d65574e9b4949364005909
+      internalID: -5924931724017215105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: contra3_various_sheet_45
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 67
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b036484453f7584e922cce0a3af337b
+      internalID: 1743750095767505858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: contra3_various_sheet_46
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 51
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03d7d76ec1530574da76eed015c8302c
+      internalID: 7367641738539933632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: contra3_various_sheet_47
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 50
+        width: 30
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a1c4c6d39ca5e1489cfdcb7e6e09e4e
+      internalID: 4707068263698529610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: contra3_various_sheet_48
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 57
+        width: 32
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 248c476a2a97bcb4c822c6deba905bf7
+      internalID: -7749455518091603021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: contra3_various_sheet_49
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 54
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 455b62b6ba7cd8a45b8098984cc27be8
+      internalID: 6779356236204233257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: contra3_various_sheet_50
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 42
+        width: 27
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59930d4fc52256441ab8eff8e62e923f
+      internalID: -6733352072173835363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: contra3_various_sheet_51
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 0
+        width: 27
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38c0fae92226b874eac71238f1f5ca22
+      internalID: 4472680804148227710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: contra3_various_sheet_52
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 1
+        width: 34
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2996d6e62d97ce141a1ee057cf1fdccd
+      internalID: 7696934100994067356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: contra3_various_sheet_53
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 10
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bc2b7dce6e3d48418f3aeb1e6694ce8
+      internalID: 5590230154159605335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: contra3_various_sheet_54
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 8
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a234a81e3269c2f41bb54843a6e7bdf0
+      internalID: 6757055211253159488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: contra3_various_sheet_55
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 8
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 827e478c369a64d4eadfea269d9f41bc
+      internalID: 5746551077292478839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: contra3_various_sheet_56
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 10
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 102c8695272bfa5479b066145cd23d43
+      internalID: 1421539509370738746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
